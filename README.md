@@ -1,4 +1,4 @@
-# OPSEC
+# OPSEC/PERSEC
 Ensemble de ressources liées à l'OPSEC/PERSEC
 
 OPSEC (Operations Security) fait référence aux mesures prises pour protéger les informations sensibles liées aux opérations d'une organisation contre l'accès non autorisé, la divulgation, la modification ou la destruction. Cela peut inclure des mesures telles que la classification des informations, la limitation de l'accès aux informations sensibles, la protection des communications, la surveillance des activités suspectes et la gestion des déchets.
