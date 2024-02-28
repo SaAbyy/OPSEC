@@ -27,6 +27,7 @@ PERSEC (Personnel Security) fait référence aux mesures prises pour protéger l
 
 - **Génération de personne pour SockPuppet** : https://thispersondoesnotexist.com/
 - **Génération d'identité** : https://fr.fakenamegenerator.com/
+- **Générateur de pseudos** : https://www.generateur-de-pseudo.fr/
 
 ### Stockage 
 
