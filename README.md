@@ -9,8 +9,26 @@ PERSEC (Personnel Security) fait référence aux mesures prises pour protéger l
 
 ## Liste de solutions 
 
-**Suite collaborative chiffrée de bout en bout et open-source** : https://cryptpad.fr/ 
-**Suite proton (VPN/Drive/Messagerie)** : https://proton.me/
-**Messagerie instantanée priorisant la vie privée (aucune écoute de vos échanges quels qu'ils soient)** : https://qtox.github.io/fr.html
-**Génération de profil pour SockPuppet** : https://thispersondoesnotexist.com/
+### Communication
 
+**Suite collaborative chiffrée de bout en bout et open-source** : https://cryptpad.fr/
+**Messagerie instantanée priorisant la vie privée (aucune écoute de vos échanges quels qu'ils soient)** : https://qtox.github.io/fr.html
+**Suite proton (Messagerie)** : https://proton.me/
+
+### Traçabilité
+
+**Navigateur anonyme** : https://www.torproject.org/fr/download/
+**Suite proton (VPN)** : https://proton.me/
+
+### Sock Puppet
+
+**Génération de personne pour SockPuppet** : https://thispersondoesnotexist.com/
+**Génération d'identité** : https://fr.fakenamegenerator.com/
+
+### Stockage 
+
+**Suite proton (Drive)** : https://proton.me/
+
+### Comptes
+
+**Mail temporaire** : https://10minutemail.net/
