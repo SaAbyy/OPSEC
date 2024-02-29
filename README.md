@@ -36,3 +36,7 @@ PERSEC (Personnel Security) fait référence aux mesures prises pour protéger l
 ### Comptes
 
 - **Mail temporaire** : https://10minutemail.net/
+
+### Autres
+
+- **Prise de notes avec Obsidian** : https://obsidian.md/
