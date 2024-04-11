@@ -44,3 +44,11 @@ PERSEC (Personnel Security) fait référence aux mesures prises pour protéger l
 - **Prise de notes avec Obsidian** : https://obsidian.md/
 - **Découvrir comment les trackers voient votre navigateur** : https://coveryourtracks.eff.org/
 - **Alternative à Youtube respectueuse de la vie privée** : https://invidious.io/
+
+#### TIPS
+
+Pour vérifier par exemple si un VPN est digne de confiance, voici offshore.cat, et la description qu'ils font d'eux pour vous aider à mieux comprendre son utilité : 
+
+**Offshore.CAT est une liste compilée des services offshore réels et authentiques, ainsi que des services offshore mauvais et inutiles que nous avons utilisés/avec lesquels nous avons eu une expérience dans le passé.**
+
+Le lien : https://offshore.cat/
