@@ -22,6 +22,7 @@ PERSEC (Personnel Security) fait référence aux mesures prises pour protéger l
 - **VPN no log** : https://mullvad.net/fr
 - **Faux fuseau horaire, géolocalisation, paramètres régionaux et User Agent** : https://vytal.io/
 - **Système d'exploitation portable qui protège contre la surveillance et la censure** : https://tails.net/
+- **Système d'exploitation anonyme qui fonctionne comme une application et achemine tout le trafic Internet via le réseau d'anonymat Tor** : https://www.whonix.org/
 
 ### Sock Puppet
 
