@@ -23,6 +23,7 @@ PERSEC (Personnel Security) fait référence aux mesures prises pour protéger l
 - **Faux fuseau horaire, géolocalisation, paramètres régionaux et User Agent** : https://vytal.io/
 - **Système d'exploitation portable qui protège contre la surveillance et la censure** : https://tails.net/
 - **Système d'exploitation anonyme qui fonctionne comme une application et achemine tout le trafic Internet via le réseau d'anonymat Tor** : https://www.whonix.org/
+- **Réseau anonyme offrant une simple couche réseau logicielle que les applications peuvent employer pour envoyer de façon anonyme et sécurisée des informations entre elles** : https://geti2p.net/en/, https://i2psearch.com/
 
 ### Sock Puppet
 
@@ -43,4 +44,3 @@ PERSEC (Personnel Security) fait référence aux mesures prises pour protéger l
 - **Prise de notes avec Obsidian** : https://obsidian.md/
 - **Découvrir comment les trackers voient votre navigateur** : https://coveryourtracks.eff.org/
 - **Alternative à Youtube respectueuse de la vie privée** : https://invidious.io/
-- **Réseau anonyme offrant une simple couche réseau logicielle que les applications peuvent employer pour envoyer de façon anonyme et sécurisée des informations entre elles** : https://geti2p.net/en/, https://i2psearch.com/
