@@ -41,3 +41,4 @@ PERSEC (Personnel Security) fait référence aux mesures prises pour protéger l
 ### Autres
 
 - **Prise de notes avec Obsidian** : https://obsidian.md/
+- **Découvrir comment les trackers voient votre navigateur** : https://coveryourtracks.eff.org/
