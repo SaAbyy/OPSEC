@@ -1,9 +1,9 @@
 # OPSEC/PERSEC
 Ensemble de ressources liées à l'OPSEC/PERSEC 
 
-## MAJ : Des outils traitant du respect de la vie privée et pas forcément liés à l'OPSEC/PERSEC seront listés également (je les dissocierais au besoin).
+> MAJ : Des outils traitant du respect de la vie privée et pas forcément liés à l'OPSEC/PERSEC seront listés également (je les dissocierais au besoin).
 
-OPSEC (Operations Security) fait référence aux mesures prises pour protéger les informations sensibles liées aux opérations d'une organisation contre l'accès non autorisé, la divulgation, la modification ou la destruction. Cela peut inclure des mesures telles que la classification des informations, la limitation de l'accès aux informations sensibles, la protection des communications, la surveillance des activités suspectes et la gestion des déchets.
+OPSEC (ou sécurité opérationnelle) consiste à élaborer et adopter un processus visant à protéger son identité sur internet. Loin d’être un détail superflu, il s’agit au contraire d’une étape cruciale devant être effectuée avant de démarrer toute enquête de sources ouvertes. Source : https://incyber.org/article/osint-des-conseils-pour-se-proteger-en-ligne/
 
 PERSEC (Personnel Security) fait référence aux mesures prises pour protéger les informations personnelles et sensibles des individus contre l'accès non autorisé, la divulgation, la modification ou la destruction. Cela peut inclure des mesures telles que la vérification des antécédents, la formation à la sécurité, la protection des données personnelles et la surveillance des activités suspectes.
 
@@ -51,6 +51,6 @@ PERSEC (Personnel Security) fait référence aux mesures prises pour protéger l
 
 Pour vérifier par exemple si un VPN est digne de confiance, voici offshore.cat, et la description qu'ils font d'eux pour vous aider à mieux comprendre son utilité : 
 
-**Offshore.CAT est une liste compilée des services offshore réels et authentiques, ainsi que des services offshore mauvais et inutiles que nous avons utilisés/avec lesquels nous avons eu une expérience dans le passé.**
+> Offshore.CAT est une liste compilée des services offshore réels et authentiques, ainsi que des services offshore mauvais et inutiles que nous avons utilisés/avec lesquels nous avons eu une expérience dans le passé.
 
 Le lien : https://offshore.cat/
