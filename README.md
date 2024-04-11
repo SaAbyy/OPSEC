@@ -42,3 +42,5 @@ PERSEC (Personnel Security) fait référence aux mesures prises pour protéger l
 
 - **Prise de notes avec Obsidian** : https://obsidian.md/
 - **Découvrir comment les trackers voient votre navigateur** : https://coveryourtracks.eff.org/
+- **Alternative à Youtube respectueuse de la vie privée** : https://invidious.io/
+- **Réseau anonyme offrant une simple couche réseau logicielle que les applications peuvent employer pour envoyer de façon anonyme et sécurisée des informations entre elles** : https://geti2p.net/en/, https://i2psearch.com/
